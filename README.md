@@ -18,7 +18,7 @@ This is a simple personal portfolio website built using HTML and CSS. The websit
 * CSS3
 
 ## How to view
-you csan access my portfolio website by visiting [https://aharisivakumar.github.io/portfolio-simple-website/]free to explore the content and get in touch!
+you csan access my portfolio website by visiting [https://aharisivakumar.github.io/portfolio-simple-website/] free to explore the content and get in touch!
 
 ## Purpose
 
